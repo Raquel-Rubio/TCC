@@ -50,7 +50,7 @@ include "header.php";
 // if((isset ($_SESSION['login']) == true) and (isset ($_SESSION['senha']) == true))
 // {
 //  header('location:index.php');
-  }
+//  }
 /// CHECAR SE O USUARIO JA TEM UMA SESSÃO EM ANDAMENTO
 ?>
 <!DOCTYPE html>
